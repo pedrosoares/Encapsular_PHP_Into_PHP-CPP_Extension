@@ -1,0 +1,5 @@
+{
+  "0":["app","app\/Http\/Controllers"],
+  "IGNORE_FILES":["app\/Http\/Controllers\/Controller.php"],
+  "AUTOLOAD":"\/bootstrap\/autoload.php"
+}
